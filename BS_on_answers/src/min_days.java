@@ -34,7 +34,7 @@ public class min_days {
         noB += (c/k);
         return noB >= m;
     }
-    //                         ****************************  BRUTE-FORCE APPROACH *************************************
+//                            ****************************  BRUTE-FORCE APPROACH *************************************
 //    static int no_of_days(int[] arr, int m, int k)
 //    {
 //       int n = arr.length;
