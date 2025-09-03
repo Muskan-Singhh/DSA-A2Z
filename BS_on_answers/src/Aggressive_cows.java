@@ -47,6 +47,7 @@ public class Aggressive_cows {
         return limit;
     }
  */
+//           ****************************  OPTIMAL APPROACH *************************************
     static int func(int[] arr, int cows) {
         Arrays.sort(arr);
         int n = arr.length - 1;
